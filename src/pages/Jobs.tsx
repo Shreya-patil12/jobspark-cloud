@@ -78,7 +78,7 @@ const Jobs = () => {
             <h1 className="text-4xl md:text-5xl font-bold">Cloud Careers</h1>
           </div>
           <p className="text-xl text-center mb-8 text-primary-foreground/90">
-            Join leading cloud technology companies. Find your dream role in PaaS, SaaS, IaaS, and more.
+            Join leading cloud technology companies.
           </p>
           
           {/* Search and Filter */}
