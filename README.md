@@ -1,4 +1,15 @@
-# Welcome to your Lovable project
+# Cloud Careers - Job Application Portal
+
+A modern, user-friendly job application portal designed for cloud technology companies. Browse opportunities across PaaS, SaaS, IaaS, FaaS, DaaS, and BaaS categories, and apply directly through an integrated application system.
+
+## Features
+
+- **Job Listings**: Browse available positions with search and category filtering
+- **Detailed Job Views**: View comprehensive job descriptions, requirements, and details
+- **Direct Applications**: Submit applications with contact information, cover letters, and professional profiles
+- **Cloud Technology Focus**: Specialized categories for cloud computing roles (PaaS, SaaS, IaaS, FaaS, DaaS, BaaS)
+- **Responsive Design**: Beautiful, modern interface that works on all devices
+- **Database Integration**: Powered by Lovable Cloud for secure data storage and management
 
 ## Project info
 
