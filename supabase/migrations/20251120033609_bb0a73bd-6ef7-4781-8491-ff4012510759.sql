@@ -96,3 +96,7 @@ INSERT INTO public.jobs (title, category, location, job_type, description, requi
  'Develop backend services and APIs for mobile and web applications. Focus on scalability and developer experience.',
  'Backend development experience, RESTful API design, Database expertise, Experience with Firebase/Supabase/AWS Amplify, 3+ years experience',
  '$110,000 - $150,000');
+('Backend-as-a-Service Developer', 'BaaS', 'Remote', 'Remote',
+ 'Develop backend services and APIs for mobile and web applications. Focus on scalability and developer experience.',
+ 'Backend development experience, RESTful API design, Database expertise, Experience with Firebase/Supabase/AWS Amplify, 3+ years experience',
+ '$110,000 - $150,000');
