@@ -9,21 +9,7 @@ A modern, user-friendly job application portal designed for cloud technology com
 - **Direct Applications**: Submit applications with contact information, cover letters, and professional profiles
 - **Cloud Technology Focus**: Specialized categories for cloud computing roles (PaaS, SaaS, IaaS, FaaS, DaaS, BaaS)
 - **Responsive Design**: Beautiful, modern interface that works on all devices
-- **Database Integration**: Powered by Lovable Cloud for secure data storage and management
 
-## Project info
-
-**URL**: https://lovable.dev/projects/0fdce31d-601f-477f-9f5c-fda36f961ff4
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/0fdce31d-601f-477f-9f5c-fda36f961ff4) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -71,14 +57,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/0fdce31d-601f-477f-9f5c-fda36f961ff4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
